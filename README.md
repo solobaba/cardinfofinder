@@ -15,5 +15,3 @@ DB folder store the responds data from api responds
 API folder contain class to make request to the server (using retrofit)
 
 UI folder contains { *activity - to hold ui *base -- for activity that share same property, *repository -- since database it contain network request{ do the dirty work to talk to server or local database} *view -- interface to transfer data *viewmodel -- to give any activity that want to observe} }
-
-https://bit.ly/3fYl9pX
