@@ -3,7 +3,7 @@ Android app which make use of BINLIST API to get credit card details and display
 
 Well tested Unit and UI tests with JUnit and Expresso
 
-Design pattern used - MVVM (Model-View-ViewModel)
+Design pattern used - MVVM (Model-View-ViewModel), Retrofit2, ViewModel, Repository pattern, and Android Recommended App Architecture
 
 App can scan Credit card using PAY-CARD library - ( https://github.com/faceterteam/PayCards_Android) which use ocr
 
