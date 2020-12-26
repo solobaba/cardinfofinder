@@ -11,7 +11,7 @@
     <string name="country">Country</string>
     <string name="currency">Currency</string>
     <string name="here_are_your_n_card_details">Here are your card details</string>
-    <string name="card_details">Enter the Debit or Credit Card 16 digits of your card number or Scan your credit card number</string>
+    <string name="card_details">Enter the first 6–9 digits of your debit/credit card or Scan your credit card number</string>
     <string name="enter_card_number">Enter card number</string>
     <string name="card_number"> XXXX XXXX XXXX XXXX</string>
     <string name="click_to_scan_card">Click to scan card</string>
