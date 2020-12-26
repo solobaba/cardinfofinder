@@ -146,7 +146,7 @@ class MainActivity : BaseActivity() {
     }
 
     private fun postCardDetailsToServer(s: Editable) {
-        if (s.length == 19) {
+        if (s.length == 7 || s.length == 9) {
             val k: String = tv_card_number.text.toString().replace(" ", "")
 
             //Show user progress bar before posting to the server
