@@ -155,8 +155,7 @@
 
             <RelativeLayout
                 style="@style/matchwrap"
-                android:paddingTop="30dp"
-                android:visibility="gone">
+                android:paddingTop="30dp">
 
                 <ImageView
                     android:id="@+id/img5"
